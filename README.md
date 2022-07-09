@@ -2,7 +2,7 @@
 
 - 🙋‍♂️ My name is João Lages
 - 👷‍ I’m currently working at [OutSystems AI](https://www.outsystems.com/ai/)
-- 🌱 I’m currently learning anything about machine learning, with focus on deep learning applied to text, images, tabular data, video, speech, time-series, anything!
+- 🌱 I’m interested in everything about machine learning, with focus on deep learning applied to text, images, tabular data, video, speech, time-series, anything!
 - 📫 How to reach me: joaop.glages@gmail.com
 - ⭐ Main open-source contributions:
   - [Ecco](https://github.com/jalammar/ecco) - Major contributions to this package that is used to explain, analyze, and visualize NLP language models
