@@ -5,6 +5,7 @@
 - 🌱 I’m interested in everything about machine learning, with focus on deep learning applied to text, images, tabular data, video, speech, time-series, anything!
 - 📫 How to reach me: joaop.glages@gmail.com
 - ⭐ Main open-source contributions:
+  - [Diffusers-Interpret 🤗🧨🕵️‍♀️](https://github.com/JoaoLages/diffusers-interpret)  - Own package, a model explainability tool built on top of [🤗 Diffusers](https://github.com/huggingface/diffusers)
   - [Ecco](https://github.com/jalammar/ecco) - Major contributions to this package that is used to explain, analyze, and visualize NLP language models
   - [AI Reading Group](https://outsystems-ai-reading-group.github.io/) - Co-author of an open AI reading group since 2019
   - [🐭 RATransformers](https://github.com/JoaoLages/RATransformers) - Own package, used to make transformer models relation-aware
