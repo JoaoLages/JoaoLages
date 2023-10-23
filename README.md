@@ -4,6 +4,7 @@
 - 👷‍ I’m currently working at [OutSystems AI](https://www.outsystems.com/ai/)
 - 🌱 I’m interested in everything about machine learning, with focus on deep learning applied to text, images, tabular data, video, speech, time-series, anything!
 - 📫 How to reach me: joaop.glages@gmail.com
+- ✍️
 - ⭐ Main open-source contributions:
   - [Diffusers-Interpret 🤗🧨🕵️‍♀️](https://github.com/JoaoLages/diffusers-interpret)  - Own package, a model explainability tool built on top of [🤗 Diffusers](https://github.com/huggingface/diffusers)
   - [Reinforcement Learning from Human Feedback (RLHF) 🙋‍♂️](https://gist.github.com/JoaoLages/c6f2dfd13d2484aa8bb0b2d567fbf093) - a simplified explanation of the RLHF algorithm applied to large language models, like ChatGPT
