@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="https://www.linkedin.com/in/thejoaolages/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Joao Lages' LinkedIn profile"/></a>
+  &nbsp;
+  <a href="https://medium.com/@joaolages/" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Joao Lages' Medium articles"/></a>
+</p>
 ### Hi there 👋
 
 - 🙋‍♂️ My name is João Lages
