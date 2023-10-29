@@ -7,7 +7,7 @@
 - ✍️ Blog posts:
   - [Reinforcement Learning from Human Feedback (RLHF) 🙋‍♂️](https://gist.github.com/JoaoLages/c6f2dfd13d2484aa8bb0b2d567fbf093) - A simplified explanation of the RLHF algorithm applied to large language models, like ChatGPT
   - [Transformers KV Caching Explained 💾](https://medium.com/@joaolages/kv-caching-explained-276520203249) - A short writing on how Key and Value states are cached in transformers for faster inference
-  - [The Quest to Have Endless Conversations with Llama and ChatGPT 📝](https://medium.com/@joaolages/the-quest-to-have-endless-conversations-with-llama-and-chatgpt-%EF%B8%8F-81360b9b34b2) - A blog post about the input size limitations of language models
+  - [Transformers Positional Encodings Explained 📝](https://medium.com/@joaolages/the-quest-to-have-endless-conversations-with-llama-and-chatgpt-%EF%B8%8F-81360b9b34b2) - Positional encoding and how it limits the input size of language models
   - [Mahalanobis for outlier detection](https://gistpreview.github.io/?3cc5c28c69d21cb5278fa39e91f1da05) - A simple demo on how to use mahalanobis distance for outlier detection
 - ⭐ Main open-source contributions:
   - [Diffusers-Interpret 🤗🧨🕵️‍♀️](https://github.com/JoaoLages/diffusers-interpret)  - Own package, a model explainability tool built on top of [🤗 Diffusers](https://github.com/huggingface/diffusers)
