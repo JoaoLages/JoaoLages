@@ -3,6 +3,7 @@
   &nbsp;
   <a href="https://medium.com/@joaolages/" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Joao Lages' Medium articles"/></a>
 </p>
+
 ### Hi there 👋
 
 - 🙋‍♂️ My name is João Lages
