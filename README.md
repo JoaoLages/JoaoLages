@@ -7,10 +7,11 @@
 ### Hi there 👋
 
 - 🙋‍♂️ My name is João Lages
-- 👷‍ I’m currently working at [OutSystems AI](https://www.outsystems.com/ai/)
+- 👷‍ I’m currently working at [Revolut](https://www.revolut.com/) as a Deep Learning Engineer
 - 🌱 I’m interested in everything about machine learning, with focus on deep learning applied to text, images, tabular data, video, speech, time-series, anything!
 - 📫 How to reach me: joaop.glages@gmail.com
 - ✍️ Blog posts:
+  - [Direct Preference Optimization (DPO)](https://medium.com/@joaolages/direct-preference-optimization-dpo-622fc1f18707) - A simplified explanation of the DPO algorithm applied to large language models, like [Zephyr](https://huggingface.co/HuggingFaceH4/zephyr-7b-alpha)
   - [Reinforcement Learning from Human Feedback (RLHF) 🙋‍♂️](https://gist.github.com/JoaoLages/c6f2dfd13d2484aa8bb0b2d567fbf093) - A simplified explanation of the RLHF algorithm applied to large language models, like ChatGPT
   - [Transformers KV Caching Explained 💾](https://medium.com/@joaolages/kv-caching-explained-276520203249) - A short writing on how Key and Value states are cached in transformers for faster inference
   - [Transformers Positional Encodings Explained 📝](https://medium.com/@joaolages/the-quest-to-have-endless-conversations-with-llama-and-chatgpt-%EF%B8%8F-81360b9b34b2) - Positional encoding and how it limits the input size of language models
