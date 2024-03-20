@@ -11,6 +11,8 @@
 - 🌱 I’m interested in everything about machine learning, with focus on deep learning applied to text, images, tabular data, video, speech, time-series, anything!
 - 📫 How to reach me: joaop.glages@gmail.com
 - ✍️ Blog posts:
+  - [Model Merging: MoE, Frankenmerging, SLERP, and Task Vector Algorithms 🧌](https://deci.ai/blog/model-merging-moe-frankenmerging-slerp-and-task-vector-algorithms/) - Deep dive on how LLM merging methods works (co-authored with Deci AI)
+  - [OpenAI JSON Mode vs Functions](https://pub.towardsai.net/openai-json-mode-vs-functions-92b15baa38d9) - Practical differences between these two ways of using OpenAI API
   - [Direct Preference Optimization (DPO)](https://medium.com/@joaolages/direct-preference-optimization-dpo-622fc1f18707) - A simplified explanation of the DPO algorithm applied to large language models, like [Zephyr](https://huggingface.co/HuggingFaceH4/zephyr-7b-alpha)
   - [Reinforcement Learning from Human Feedback (RLHF) 🙋‍♂️](https://gist.github.com/JoaoLages/c6f2dfd13d2484aa8bb0b2d567fbf093) - A simplified explanation of the RLHF algorithm applied to large language models, like ChatGPT
   - [Transformers KV Caching Explained 💾](https://medium.com/@joaolages/kv-caching-explained-276520203249) - A short writing on how Key and Value states are cached in transformers for faster inference
