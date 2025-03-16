@@ -7,7 +7,7 @@
 ### Hi there 👋
 
 - 🙋‍♂️ My name is João Lages
-- 👷‍ Deep Learning Engineer @ [Revolut](https://www.revolut.com/) 
+- 👷‍ Senior Data Scientist @ [ComplyAdvantage](https://www.complyadvantage.com/) 
 - 🌱 I’m interested in everything about machine learning, with focus on deep learning applied to text, images, tabular data, video, speech, time-series, anything!
 - 📫 How to reach me: joaop.glages@gmail.com
 - ✍️ Blog posts:
