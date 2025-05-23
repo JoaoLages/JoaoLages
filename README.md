@@ -8,7 +8,7 @@
 
 - 🙋‍♂️ My name is João Lages
 - 👷‍ Senior Data Scientist @ [ComplyAdvantage](https://www.complyadvantage.com/) 
-- 🌱 I’m interested in everything about machine learning, with focus on deep learning applied to text, images, tabular data, video, speech, time-series, anything!
+- 🌱 I’m interested in everything about machine learning, with focus on deep learning applied to text, images, tabular data, graphs, video, speech, time-series, anything!
 - 📫 How to reach me: joaop.glages@gmail.com
 - ✍️ Blog posts:
   - [Model Merging: MoE, Frankenmerging, SLERP, and Task Vector Algorithms 🧌](https://deci.ai/blog/model-merging-moe-frankenmerging-slerp-and-task-vector-algorithms/) - Deep dive on how LLM merging methods work (co-authored with Deci AI)
